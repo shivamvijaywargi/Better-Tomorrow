@@ -17,6 +17,14 @@
 ### Skills Gained from this
 
 - Learned about CSS Positioning, Relative, Absolute. Also about`border-right` single property.
+- Another thing, if you want to change the color when you select text then you can use ::selection.
+
+```css
+  p::selection {
+    color: #fff;
+    background-color: #000;
+  }
+```
 
 ### Screenshot
 
